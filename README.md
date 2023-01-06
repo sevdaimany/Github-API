@@ -18,7 +18,7 @@ Create a website to interact with GitHub using GitHub rest API and show user inf
 Screenshot](https://github.com/sevdaimany/github-api/blob/master/img/screenshot.png)
 
 ## 🔗 Live Demo
-[Live Demo Link](https://sevdaimany.github.io/github-api/)
+[Live Demo Link](https://sevdaimany.github.io/Github-API/)
 
 ## Documentation
 
