@@ -10,7 +10,7 @@
 
 /* style both info-box and the form */
 .column{
-    height: 50%;
+    height: 55%;
     float: left;
     padding: 30px 30px;
     margin: 10% 0px;
@@ -38,13 +38,13 @@
 /* personal info in info-box is float to right */
 .personal-info{
     float: right;
-    margin-right: 10%;
+    margin-right: 5%;
 }
 
 /* all labels in personal-info div have display:block to display each of them in seprate line */
 .personal-info *{
     display: block;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 1000;
     padding: 10px 10px;
     color: #efefef;
@@ -54,7 +54,7 @@
 #bio{
     display: block;
     padding: 60px 0px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 1000;
     color: #efefef;
     /* each line has maximum 50 character */
