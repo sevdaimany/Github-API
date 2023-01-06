@@ -18,12 +18,13 @@ user information on the page.
 ![App 
 Screenshot](https://github.com/sevdaimany/github-api/blob/master/img/screenshot.png)
 
+## �� Live Demo
+�Live Demo Link](https://sevdaimany.github.io/Github-API/)
+
 ## Documentation
 
 [Documentation](https://github.com/sevdaimany/github-api/blob/master/midterm.pdf)
 
-## 🔗 Live Demo
-[Live Demo Link](https://sevdaimany.github.io/Github-API/)
 ## Show your support
 
 Give a ⭐️ if you like this project!
