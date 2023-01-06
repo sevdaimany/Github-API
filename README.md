@@ -23,7 +23,7 @@ Screenshot](https://github.com/sevdaimany/github-api/blob/master/img/screenshot.
 [Documentation](https://github.com/sevdaimany/github-api/blob/master/midterm.pdf)
 
 ## 🔗 Live Demo
-[Live Demo Link](https://sevdaimany.github.io/github-api/)
+[Live Demo Link](https://sevdaimany.github.io/Github-API/)
 ## Show your support
 
 Give a ⭐️ if you like this project!
