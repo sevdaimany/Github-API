@@ -1,0 +1,94 @@
+/* style the row (containing two columns) */
+.row{
+    height: 100vh;
+    width: 100%;
+    background-image: url('../img/github-logo.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* style both info-box and the form */
+.column{
+    height: 50%;
+    float: left;
+    padding: 30px 30px;
+    margin: 10% 0px;
+    background-color: rgb(107, 102, 102, 0.8);
+    border-radius: 8px;
+    border: 3px solid black;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+
+/* style info-box, the width and margin-left is specified */
+.info-box{
+    width: 30%;
+    margin-left: 10%;
+}
+
+/* style user photo */
+#photo{
+    width: 40%;
+}
+
+/* personal info in info-box is float to right */
+.personal-info{
+    float: right;
+    margin-right: 10%;
+}
+
+/* all labels in personal-info div have display:block to display each of them in seprate line */
+.personal-info *{
+    display: block;
+    font-size: 25px;
+    font-weight: 1000;
+    padding: 10px 10px;
+    color: #efefef;
+}
+
+/* style bio label in html */
+#bio{
+    display: block;
+    padding: 60px 0px;
+    font-size: 25px;
+    font-weight: 1000;
+    color: #efefef;
+    /* each line has maximum 50 character */
+    max-width: 50ch;
+}
+
+
+/* style the form */
+#form{
+    width: 20%;
+    float: right;
+    margin-right: 19%;
+    text-align: center;
+}
+
+/* style input that gets user id */
+#user-id{
+    display: block;
+    margin: 50px auto;
+    margin-top: 20%;
+    padding: 10px 5px;
+    font-size: 18px;
+}
+
+/* style submit button */
+.btn{
+    padding: 5px 60px;
+    font-size: 30px;
+}
+
+/* style error label */
+#error{
+    color: rgb(204, 18, 18);
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: 1000;
+}
